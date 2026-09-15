@@ -1,0 +1,11 @@
+# Fichiers temporaires Word/Excel
+~$*
+
+# Fichiers Word
+*.docx
+*.doc
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
