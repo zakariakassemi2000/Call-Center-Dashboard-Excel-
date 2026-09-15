@@ -71,9 +71,9 @@ Le tableau de bord permet d'analyser plusieurs indicateurs, notamment :
 
 ## 🖼️ Aperçu du tableau de bord
 
-**Dashboard Preview :** Call Center KPIs Dashboard
+![Call Center KPIs Dashboard](dashboard.png)
 
-Le tableau de bord offre une vue synthétique des principaux indicateurs du centre d'appels et permet d'explorer les performances grâce aux filtres interactifs.
+> **Dashboard Preview :** Vue synthétique des principaux indicateurs du centre d'appels avec filtres interactifs (Slicers) par mois, agent et sujet d'appel.
 
 ---
 
